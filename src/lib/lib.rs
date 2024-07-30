@@ -1,2 +1,4 @@
 pub mod config;
-pub mod routes;
+pub mod domain;
+pub mod inbound;
+pub mod outbound;
